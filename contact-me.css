@@ -1,0 +1,47 @@
+.section-contact-me {
+    margin-top: 5%;
+}
+
+.section-contact-me .contact-me-title{
+    text-align: center;
+    margin: 0;
+    height: 100%;
+}
+
+.contact-me-body{
+    margin-top: 2%;
+    display: grid;
+    grid-template-rows: 1fr;
+}
+
+.contact-me-body__form{
+text-align: center;
+}
+
+.photo-contact-me {
+    width: 25rem;
+    margin: auto;
+}
+
+.contact-me-body__form img{
+    width: 7rem;
+    margin-top: 2%;
+}
+
+#text-for-form{
+    width: 50%;
+    margin: auto;
+    margin-top: 5%;
+    margin-bottom: 2%;
+    text-align: justify;
+}
+
+.contact-me-body__form h4{
+    margin-top: 7%;
+    margin-bottom: 5%;
+}
+
+.contact-me-body__form hr{
+    width: 70%;
+    margin: auto;
+}

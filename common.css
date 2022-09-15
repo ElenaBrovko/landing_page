@@ -1,0 +1,12 @@
+.container{
+    width: 90%;
+    margin: auto;
+    font-family: monospace;
+}
+
+
+:root{
+    --main-color: black;
+    --bg-color: #9694a1;
+    --color-hover: #9694a1;
+}

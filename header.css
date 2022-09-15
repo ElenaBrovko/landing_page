@@ -1,0 +1,39 @@
+
+
+.logo-section{
+    margin-top: 5%;
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    padding: 1%;
+}
+
+#header-img {
+    width: 2rem;
+}
+
+#logo-title{
+    font-size: 1rem;
+    color: var(--main-color);
+    margin-left: 2%;
+}
+
+#nav-bar{
+    display: flex;
+    margin: auto;
+    width: 100%;
+    justify-content: center;
+}
+
+
+#nav-bar a{
+    text-decoration: none;
+    font-size: 0.7rem;
+    padding: 1%;
+    color: var(--main-color);
+}
+
+#nav-bar a:hover{
+    color: var(--color-hover);
+}
+
